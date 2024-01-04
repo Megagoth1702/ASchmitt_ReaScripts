@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Andrej Schmitt ReaScripts" commit="bc7fe2856be6c4813c535a3139dc87905a75333f">
+<index version="1" name="Andrej Schmitt ReaScripts" commit="3dbd1e283212828a0969348339cca0a5779cd354">
+  <category name="Multichannel Files">
+    <reapack name="aschmitt_Explode &amp; Name Tracks &amp; Item Takes According To MixPre 6 Src .lua" type="script" desc="Explode MulChan &amp; Name Tracks &amp; Item Takes According To MixPre 6 Source">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Script made specifically to work with MixPre 6 Source Files.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.2" author="Andrej Schmitt" time="2024-01-04T17:26:13Z">
+        <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/3dbd1e283212828a0969348339cca0a5779cd354/Multichannel%20Files/aschmitt_Explode%20&amp;%20Name%20Tracks%20&amp;%20Item%20Takes%20According%20To%20MixPre%206%20Src%20.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -11,7 +27,7 @@
 {\pard \ql \f0 \sa180 \li0 \fi0 Each package file is expected to begin with a metadata header. See {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation"}}{\fldrslt{\ul
 Packaging Documentation
 }}}
- on reapack-index's wiki.\par}
+ on reapack-index's wikiiiii.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 The URL to import in ReaPack is {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-repository-template/raw/master/index.xml"}}{\fldrslt{\ul
 https://github.com/{\f1 <your username>}/{\f1 <repository name>}/raw/master/index.xml
 }}}
