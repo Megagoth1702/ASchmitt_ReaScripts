@@ -32,7 +32,7 @@ local function getTrackMetadata()
     return trackInfo
 end
 
--- Function to explode multichannel item into mono items
+-- explode multichannel item into mono items
 local function explodeMultichannelToMono()
     local selectedItem = reaper.GetSelectedMediaItem(0, 0)
     
