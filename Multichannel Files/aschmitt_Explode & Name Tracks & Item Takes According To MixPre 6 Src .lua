@@ -1,15 +1,16 @@
--- @description Explode MulChan & Name Tracks & Item Takes According To MixPre 6 Track Names 
--- @author Andrej Schmitt
--- @version 1.0
--- @about
---   This is an example of a package file. It installs itself as a ReaScript that
---   does nothing but show "Hello World!" in REAPER's scripting console..
---
---   Packages may also include additional files specified using the @provides tag.
---
---   This text is the documentation shown when using ReaPack's "About this package"
---   feature. [Markdown](https://commonmark.org/) *formatting* is supported.
+--[[ 
+@about
+Script made specifically to work with MixPre 6 Source Files.
+Per MixPre polywav-channel will create according single-channel item, route appropriate source
+file channel to it & name the item & track by using Metadata from the Original Wav File.
 
+@description Explode MulChan & Name Tracks & Item Takes According To MixPre 6 Source
+@author Andrej Schmitt
+Author: Andrej Schmittt
+@version 1.0.1
+@changelog
+-added some ReaScript Packaging Info
+--]]
 
 -- Check if REAPER is available
 if not reaper then
