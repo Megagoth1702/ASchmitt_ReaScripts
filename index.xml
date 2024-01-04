@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Andrej Schmitt ReaScripts" commit="10958db663b1a6beca79924c50aa9ea67b1f0e3e">
+<index version="1" name="Andrej Schmitt ReaScripts" commit="4a75f9ada7b4ba456933040d5d15ae370ded3070">
   <category name="Multichannel Files">
     <reapack name="aschmitt_Explode &amp; Name Tracks &amp; Item Takes According To MixPre 6 Src .lua" type="script" desc="Explode MulChan &amp; Name Tracks &amp; Item Takes According To MixPre 6 Source">
       <metadata>
@@ -13,6 +13,10 @@
       </metadata>
       <version name="1.0.2" author="Andrej Schmitt" time="2024-01-04T17:26:13Z">
         <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/3dbd1e283212828a0969348339cca0a5779cd354/Multichannel%20Files/aschmitt_Explode%20&amp;%20Name%20Tracks%20&amp;%20Item%20Takes%20According%20To%20MixPre%206%20Src%20.lua</source>
+      </version>
+      <version name="1.0.3" author="Andrej Schmitt" time="2024-01-04T17:36:41Z">
+        <changelog><![CDATA[hopefully final packaging info add]]></changelog>
+        <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/4a75f9ada7b4ba456933040d5d15ae370ded3070/Multichannel%20Files/aschmitt_Explode%20&amp;%20Name%20Tracks%20&amp;%20Item%20Takes%20According%20To%20MixPre%206%20Src%20.lua</source>
       </version>
     </reapack>
   </category>
