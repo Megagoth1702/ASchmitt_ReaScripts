@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaPack Repository Template" commit="6b2b627527f1e9949fc18876343925d1cdd4980e">
+<index version="1" name="Andrej Schmitt Reaper ReaScripts" commit="6b2b627527f1e9949fc18876343925d1cdd4980e">
   <category name="Multichannel Files">
     <reapack name="aschmitt_Explode &amp; Name Tracks &amp; Item Takes According To MixPre 6 Src .lua" type="script" desc="Explode MulChan &amp; Name Tracks &amp; Item Takes According To MixPre 6 Source">
       <metadata>
