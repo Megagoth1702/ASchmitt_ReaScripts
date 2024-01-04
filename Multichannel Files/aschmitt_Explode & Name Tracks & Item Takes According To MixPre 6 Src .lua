@@ -4,7 +4,7 @@
 
 --@description Explode MulChan & Name Tracks & Item Takes According To MixPre 6 Source
 --@author Andrej Schmitt
---@version 1.0.2
+--@version 1.0.3
 --@changelog
 --	added some ReaScript Packaging Info
 
