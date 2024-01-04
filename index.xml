@@ -1,26 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Andrej Schmitt Reaper ReaScripts" commit="6b2b627527f1e9949fc18876343925d1cdd4980e">
-  <category name="Multichannel Files">
-    <reapack name="aschmitt_Explode &amp; Name Tracks &amp; Item Takes According To MixPre 6 Src .lua" type="script" desc="Explode MulChan &amp; Name Tracks &amp; Item Takes According To MixPre 6 Source">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 Script made specifically to work with MixPre 6 Source Files.\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.1" author="Andrej Schmitt" time="2024-01-04T17:08:28Z">
-        <changelog><![CDATA[# added some ReaScript Packaging Info]]></changelog>
-        <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/7cae1bb0b93a19ce269a93552a7bf6b1ade94738/Multichannel%20Files/aschmitt_Explode%20&amp;%20Name%20Tracks%20&amp;%20Item%20Takes%20According%20To%20MixPre%206%20Src%20.lua</source>
-      </version>
-      <version name="1.0.1" author="Andrej Schmitt" time="2024-01-04T17:10:28Z">
-        <changelog><![CDATA[# added some ReaScript Packaging Info]]></changelog>
-        <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/6b2b627527f1e9949fc18876343925d1cdd4980e/Multichannel%20Files/aschmitt_Explode%20&amp;%20Name%20Tracks%20&amp;%20Item%20Takes%20According%20To%20MixPre%206%20Src%20.lua</source>
-      </version>
-    </reapack>
-  </category>
+<index version="1" name="Andrej Schmitt Reaper ReaScripts" commit="bc7fe2856be6c4813c535a3139dc87905a75333f">
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
