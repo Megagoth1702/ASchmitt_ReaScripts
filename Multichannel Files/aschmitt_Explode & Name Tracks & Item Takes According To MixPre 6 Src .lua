@@ -4,8 +4,9 @@
 -- @about Script made specifically to work with MixPre 6 Source Files.
 --	Per MixPre polywav-channel will create according single-channel item, route appropriate source
 --	file channel to it & name the item & track by using Metadata from the Original Wav File.
--- @changelog
---	# added some ReaScript Packaging Info
+-- @changelog	# added some ReaScript Packaging Info
+--	#tried to fix PackInfo
+--	#fiiiixxxiiiittt
 
 
 -- Check if REAPER is available
