@@ -1,16 +1,15 @@
---[[ 
-@about
-Script made specifically to work with MixPre 6 Source Files.
-Per MixPre polywav-channel will create according single-channel item, route appropriate source
-file channel to it & name the item & track by using Metadata from the Original Wav File.
+--@about
+--Script made specifically to work with MixPre 6 Source Files.
+--Per MixPre polywav-channel will create according single-channel item, route appropriate source
+--file channel to it & name the item & track by using Metadata from the Original Wav File.
 
-@description Explode MulChan & Name Tracks & Item Takes According To MixPre 6 Source
-@author Andrej Schmitt
-Author: Andrej Schmittt
-@version 1.0.1
-@changelog
--added some ReaScript Packaging Info
---]]
+--@description Explode MulChan & Name Tracks & Item Takes According To MixPre 6 Source
+--@author Andrej Schmitt
+--Author: Andrej Schmittt
+--@version 1.0.1
+--@changelog
+--	added some ReaScript Packaging Info
+
 
 -- Check if REAPER is available
 if not reaper then
