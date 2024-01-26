@@ -27,13 +27,8 @@
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ASchmitt_ReaScripts\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Small repo of scripts, for easier maintenance.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 reapack-index looks for package files in subfolders. The folder tree represents the package categories shown in ReaPack.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Each package file is expected to begin with a metadata header. See {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation"}}{\fldrslt{\ul
-Packaging Documentation
-}}}
- on reapack-index's wikiiiii.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 The URL to import in ReaPack is {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-repository-template/raw/master/index.xml"}}{\fldrslt{\ul
-https://github.com/{\f1 <your username>}/{\f1 <repository name>}/raw/master/index.xml
+{\pard \ql \f0 \sa180 \li0 \fi0 The URL to import in ReaPack is {\field{\*\fldinst{HYPERLINK "https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/master/index.xml"}}{\fldrslt{\ul
+https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/master/index.xml
 }}}
 .\par}
 }
