@@ -9,7 +9,7 @@
 --   Strike: https://strike.me/megagoth1702/
 --   PayPal: https://www.paypal.com/paypalme/TheVayMusick
 -- @screenshot
---   ![Screenshot](https://i.imgur.com/XLKt8B2.png)
+--   https://i.imgur.com/DOgbflj.jpeg
 -- @provides
 --   [main] .
 
