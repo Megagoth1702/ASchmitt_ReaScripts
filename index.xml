@@ -12,8 +12,8 @@
 }
 ]]></description>
         <link rel="screenshot">https://i.imgur.com/DOgbflj.jpeg</link>
-        <link rel="donation" href="https://strike.me/megagoth1702/">Strike:</link>
-        <link rel="donation" href="https://www.paypal.com/paypalme/TheVayMusick">PayPal:</link>
+        <link rel="donation" href="https://strike.me/megagoth1702/">Strike</link>
+        <link rel="donation" href="https://www.paypal.com/paypalme/TheVayMusick">PayPal</link>
       </metadata>
       <version name="1.0" author="Andrei Schmidt" time="2024-11-05T01:01:09Z">
         <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/420dfba848d9899432f41777431dbe636dd0aea7/MIDI/aschmitt_Gradually%20Scale%20MIDI%20Note%20Length.lua</source>
