@@ -1,4 +1,4 @@
--- @version 1.0
+-- @version 1.01
 -- @description Gradually Scale MIDI Note Lengths
 -- @about
 --   # Gradually Scale MIDI Note Lengths
@@ -12,6 +12,8 @@
 --   https://i.imgur.com/ERcVp6X.gif
 -- @provides
 --   [main] .
+-- @changelog
+--   ReaPack Formatting
 
 -- Gradually Scale MIDI Note Lengths Script with Correct PPQ Calculation
 
