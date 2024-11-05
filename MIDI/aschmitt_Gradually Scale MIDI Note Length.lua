@@ -1,10 +1,10 @@
--- @version 1.01
+-- @version 1.02
 -- @description Gradually Scale MIDI Note Lengths
 -- @about
 --   # Gradually Scale MIDI Note Lengths
 --
 --   This script allows you to scale MIDI note lengths gradually between a specified minimum and maximum length using correct PPQ calculations. It requires the SWS Extension.
--- @author Andrei Schmidt
+-- @author ASchmitt
 -- @donation
 --   Strike https://strike.me/megagoth1702/
 --   PayPal https://www.paypal.com/paypalme/TheVayMusick
