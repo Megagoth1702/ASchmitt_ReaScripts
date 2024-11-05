@@ -6,8 +6,8 @@
 --   This script allows you to scale MIDI note lengths gradually between a specified minimum and maximum length using correct PPQ calculations. It requires the SWS Extension.
 -- @author Andrei Schmidt
 -- @donation
---   Strike: https://strike.me/megagoth1702/
---   PayPal: https://www.paypal.com/paypalme/TheVayMusick
+--   Strike https://strike.me/megagoth1702/
+--   PayPal https://www.paypal.com/paypalme/TheVayMusick
 -- @screenshot
 --   https://i.imgur.com/DOgbflj.jpeg
 -- @provides
