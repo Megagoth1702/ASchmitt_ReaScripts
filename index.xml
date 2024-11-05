@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ASchmitt ReaScripts" commit="59e73e0abb38b958c0039c361caa66cf8f90aa76">
+<index version="1" name="ASchmitt ReaScripts" commit="47ab2c63ea700e8548ce2f8762070141fa4639eb">
   <category name="MIDI">
     <reapack name="aschmitt_Gradually Scale MIDI Note Length.lua" type="script" desc="Gradually Scale MIDI Note Lengths">
       <metadata>
@@ -8,9 +8,10 @@
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Gradually Scale MIDI Note Lengths\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to scale MIDI note lengths gradually between a specified min and max length using correct PPQ calculations. It requires the SWS Extension.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to scale MIDI note lengths gradually between a specified minimum and maximum length using correct PPQ calculations. It requires the SWS Extension.\par}
 }
 ]]></description>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=295735">Forum Thread</link>
         <link rel="screenshot">https://i.imgur.com/ERcVp6X.gif</link>
         <link rel="donation" href="https://strike.me/megagoth1702/">Strike</link>
         <link rel="donation" href="https://www.paypal.com/paypalme/TheVayMusick">PayPal</link>
@@ -18,6 +19,10 @@
       <version name="1.03" author="ASchmitt" time="2024-11-05T01:56:03Z">
         <changelog><![CDATA[ReaPack Formatting]]></changelog>
         <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/59e73e0abb38b958c0039c361caa66cf8f90aa76/MIDI/aschmitt_Gradually%20Scale%20MIDI%20Note%20Length.lua</source>
+      </version>
+      <version name="1.04" author="ASchmitt" time="2024-11-05T02:06:13Z">
+        <changelog><![CDATA[Forum link added]]></changelog>
+        <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/47ab2c63ea700e8548ce2f8762070141fa4639eb/MIDI/aschmitt_Gradually%20Scale%20MIDI%20Note%20Length.lua</source>
       </version>
     </reapack>
   </category>
