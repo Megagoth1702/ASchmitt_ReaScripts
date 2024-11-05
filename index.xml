@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Andrej Schmitt ReaScripts" commit="59e73e0abb38b958c0039c361caa66cf8f90aa76">
+<index version="1" name="ASchmitt ReaScripts" commit="59e73e0abb38b958c0039c361caa66cf8f90aa76">
   <category name="MIDI">
     <reapack name="aschmitt_Gradually Scale MIDI Note Length.lua" type="script" desc="Gradually Scale MIDI Note Lengths">
       <metadata>
@@ -15,17 +15,6 @@
         <link rel="donation" href="https://strike.me/megagoth1702/">Strike</link>
         <link rel="donation" href="https://www.paypal.com/paypalme/TheVayMusick">PayPal</link>
       </metadata>
-      <version name="1.0" author="Andrei Schmidt" time="2024-11-05T01:01:09Z">
-        <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/420dfba848d9899432f41777431dbe636dd0aea7/MIDI/aschmitt_Gradually%20Scale%20MIDI%20Note%20Length.lua</source>
-      </version>
-      <version name="1.01" author="Andrei Schmidt" time="2024-11-05T01:52:09Z">
-        <changelog><![CDATA[ReaPack Formatting]]></changelog>
-        <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/7b1f681e20cebbff20a46c9b4e1d5ab9cb0b652e/MIDI/aschmitt_Gradually%20Scale%20MIDI%20Note%20Length.lua</source>
-      </version>
-      <version name="1.02" author="ASchmitt" time="2024-11-05T01:52:36Z">
-        <changelog><![CDATA[ReaPack Formatting]]></changelog>
-        <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/05fe8172aab52f367b7a530a83b87ca5bda5712d/MIDI/aschmitt_Gradually%20Scale%20MIDI%20Note%20Length.lua</source>
-      </version>
       <version name="1.03" author="ASchmitt" time="2024-11-05T01:56:03Z">
         <changelog><![CDATA[ReaPack Formatting]]></changelog>
         <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/59e73e0abb38b958c0039c361caa66cf8f90aa76/MIDI/aschmitt_Gradually%20Scale%20MIDI%20Note%20Length.lua</source>
@@ -43,9 +32,6 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0.2" author="Andrej Schmitt" time="2024-01-04T17:26:13Z">
-        <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/3dbd1e283212828a0969348339cca0a5779cd354/Multichannel%20Files/aschmitt_Explode%20&amp;%20Name%20Tracks%20&amp;%20Item%20Takes%20According%20To%20MixPre%206%20Src%20.lua</source>
-      </version>
       <version name="1.0.3" author="Andrej Schmitt" time="2024-01-04T17:36:41Z">
         <changelog><![CDATA[hopefully final packaging info add]]></changelog>
         <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/4a75f9ada7b4ba456933040d5d15ae370ded3070/Multichannel%20Files/aschmitt_Explode%20&amp;%20Name%20Tracks%20&amp;%20Item%20Takes%20According%20To%20MixPre%206%20Src%20.lua</source>
