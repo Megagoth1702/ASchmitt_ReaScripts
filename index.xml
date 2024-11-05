@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Andrej Schmitt ReaScripts" commit="05fe8172aab52f367b7a530a83b87ca5bda5712d">
+<index version="1" name="Andrej Schmitt ReaScripts" commit="59e73e0abb38b958c0039c361caa66cf8f90aa76">
   <category name="MIDI">
     <reapack name="aschmitt_Gradually Scale MIDI Note Length.lua" type="script" desc="Gradually Scale MIDI Note Lengths">
       <metadata>
@@ -8,7 +8,7 @@
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Gradually Scale MIDI Note Lengths\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to scale MIDI note lengths gradually between a specified minimum and maximum length using correct PPQ calculations. It requires the SWS Extension.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to scale MIDI note lengths gradually between a specified min and max length using correct PPQ calculations. It requires the SWS Extension.\par}
 }
 ]]></description>
         <link rel="screenshot">https://i.imgur.com/ERcVp6X.gif</link>
@@ -25,6 +25,10 @@
       <version name="1.02" author="ASchmitt" time="2024-11-05T01:52:36Z">
         <changelog><![CDATA[ReaPack Formatting]]></changelog>
         <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/05fe8172aab52f367b7a530a83b87ca5bda5712d/MIDI/aschmitt_Gradually%20Scale%20MIDI%20Note%20Length.lua</source>
+      </version>
+      <version name="1.03" author="ASchmitt" time="2024-11-05T01:56:03Z">
+        <changelog><![CDATA[ReaPack Formatting]]></changelog>
+        <source main="main">https://github.com/Megagoth1702/ASchmitt_ReaScripts/raw/59e73e0abb38b958c0039c361caa66cf8f90aa76/MIDI/aschmitt_Gradually%20Scale%20MIDI%20Note%20Length.lua</source>
       </version>
     </reapack>
   </category>
